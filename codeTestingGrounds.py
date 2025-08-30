@@ -1,31 +1,3 @@
-(TEXT) 1. The problem asks for the solution(s) of the quadratic equation x^2 - 4x + 4 = 0, a polynomial with coefficients a=1, b=-4, c=4.
-
-(TEXT) 2. This is a quadratic; we can solve by factoring (or completing the square). The discriminant is D = b^2 - 4ac = (-4)^2 - 4*(1)*(4) = 16 - 16 = 0, indicating a repeated root.
-
-(LATEX) 3. x^2 - 4x + 4 = (x - 2)^2
-
-(LATEX) 4. (x - 2)^2 = 0
-
-(LATEX) 5. x - 2 = 0
-
-(LATEX) 6. x = 2
-
-(TEXT) 7. Since the discriminant is zero, there is a single real root (a repeated root) at x = 2. The solution set is {2}.
-
-(TEXT) 8. Verification: substitute x = 2 into the original equation: 2^2 - 4*2 + 4 = 4 - 8 + 4 = 0.
-
-(TEXT) 9. The left-hand side is a perfect square, (x - 2)^2, which confirms the single root x = 2.
-
-(TEXT) 10. Final answer: x = 2. 
-
-
-Total Price:  $ 0.00052675
-
-
-
-
-
-Manim Code Generated:
 from manim import *
 
 class Step1Scene(Scene):
