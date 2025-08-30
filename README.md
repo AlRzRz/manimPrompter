@@ -5,4 +5,4 @@
 - Second agent uses the formatted prompt to generate code based off the Manim library.
 
 
-* uses the openai py sdk
+*uses the openai py sdk*
