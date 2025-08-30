@@ -90,3 +90,7 @@ class Step7Scene(Scene):
         self.wait(2)
         self.play(FadeOut(text))
         self.wait(0.5) 
+
+
+
+Total Price of all Agents: $ 0.0029080500000000006
